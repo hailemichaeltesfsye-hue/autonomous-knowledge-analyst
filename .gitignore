@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+checkpoints/*.db
+.pytest_cache/
+*.egg-info/
+checkpoints/*.db-shm
+checkpoints/*.db-wal
